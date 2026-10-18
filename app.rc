@@ -1,0 +1,3 @@
+// GM3323D Mouse Light Control - resources
+// 不 include windows.h: windres 自带预处理器处理不住, 图标资源也不需要它
+IDI_APP   ICON    "resources/app.ico"

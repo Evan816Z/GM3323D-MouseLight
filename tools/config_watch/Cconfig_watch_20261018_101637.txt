@@ -1,0 +1,12 @@
+=== GM3323D config-watch (read-only, 10ms polling) ===
+IMPORTANT: the config snapshot only appears at the MOMENT you change DPI / polling-rate.
+  Just leaving the original software open (without changing anything) captures nothing.
+Steps: run this -> in original software drag DPI slot#1 to MIN(200) then press 1 here,
+       drag it to MAX(10000) then press 2. Change polling-rate 1-2 times and press 3.
+       Stops after 4 captures, or press ESC to stop early.
+
+Device opened. Now go change a DPI value in the original software...
+--- MARKER 3  (T+28.7s) ---
+--- MARKER 3  (T+29.9s) ---
+--- ESC: 提前结束 ---
+=== END: 2302 polls, 0 config hits, 0 distinct ===

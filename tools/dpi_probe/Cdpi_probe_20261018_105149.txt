@@ -1,0 +1,9 @@
+=== GM3323D DPI locator v2 ===
+col#0  UP=0x000A U=0x0000  in=5 out=0 feat=0  featRids=8
+col#1  UP=0x000B U=0x0000  in=0 out=0 feat=132  featRids=8
+col#2  UP=0x0001 U=0x0080  in=2 out=0 feat=0  featRids=8
+col#3  UP=0x000C U=0x0001  in=3 out=0 feat=0  featRids=8
+  started input capture for col#0
+  started input capture for col#2
+  started input capture for col#3
+Calibrating report sizes...
