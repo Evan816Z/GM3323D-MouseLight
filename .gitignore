@@ -1,0 +1,4 @@
+.workbuddy/
+build/
+*.o
+*.obj
